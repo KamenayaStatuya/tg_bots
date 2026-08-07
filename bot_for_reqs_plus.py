@@ -2,8 +2,8 @@ import telebot
 from telebot import types
 import sqlite3
 
-bot = telebot.TeleBot('8640766684:AAHvtwBv94iSYzoyHWE_k9f0-siAg1o269k')
-user_owner = 6060100513
+bot = telebot.TeleBot('UR TOKEN')
+user_owner = int('UR ID IN TG')
 requests = {}
 
 def main_menu (user):
