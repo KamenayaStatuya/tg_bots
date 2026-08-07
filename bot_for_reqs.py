@@ -1,3 +1,6 @@
+# Внимание, этот бот использует эмодзи, которые доступны только для премиум пользователей. Если у вас нету премиум подписки, то настоятельно нерекомендую вам использовать конкретно этот скрипт.
+# Please note: this bot uses emojis that are available only to Premium users. If you do not have a Premium subscription, I strongly advise against using this specific script.
+
 import telebot
 from telebot import types
 import sqlite3
